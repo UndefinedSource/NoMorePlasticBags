@@ -102,7 +102,9 @@ p {
     font-size: 70px;
      
 }
-
+.mediumText {
+    font-size: 50px;
+}
 canvas {
     margin: 0 auto;
 }
