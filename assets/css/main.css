@@ -98,12 +98,12 @@ p {
     justify-content: center;
 }
 
+.mediumText {
+    font-size: 50px;
+}
 .bigText {      
     font-size: 70px;
      
-}
-.mediumText {
-    font-size: 50px;
 }
 
 canvas {
