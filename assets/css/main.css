@@ -58,19 +58,19 @@ p {
 .section1 {
     height: 500px;
     background-color: white;
-    padding: 100px;
+    padding: 50px;
 }
 
 .section3 {
     height: 500px;
     background-color: white;
-    padding: 100px;
+    padding: 50px;
 }
 
 .section2, .section4 {
     height: 500px;
     background-color: #67b87c;
-    padding: 100px;
+    padding: 50px;
 
 }
 
