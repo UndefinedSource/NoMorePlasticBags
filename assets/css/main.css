@@ -52,7 +52,8 @@ p {
     color: #4dbf6b;
     font-family: 'Bebas Neue', cursive;
     font-size: 120px;
-    text-align: center; 
+    text-align: center;
+    margin-top: 10px;
 }
 
 .section1 {
