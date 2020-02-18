@@ -1,5 +1,15 @@
 body {
     margin: 0px;
+    width: 100%;
+}
+
+hr {
+    width: 90%;
+    text-align: center;
+}
+
+.container {
+    width: 100%;
 }
 
 h1 {
@@ -26,7 +36,12 @@ p {
     font-size: 20px; 
 }
 
-
+.sub_header {
+    color: #4dbf6b;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 100px;
+    text-align: center; 
+}
 
 .div_title {
     margin-top: 50px;
@@ -34,16 +49,16 @@ p {
 }
 
 .title {
-    color: #5bd14d;
+    color: #4dbf6b;
     font-family: 'Bebas Neue', cursive;
-    font-size: 80px;
+    font-size: 120px;
     text-align: center; 
 }
 
 .section1 {
     height: 500px;
     background-color: white;
-    padding: 50px;
+    padding: 100px;
 }
 
 .section3 {
@@ -54,7 +69,7 @@ p {
 
 .section2, .section4 {
     height: 500px;
-    background-color: #5bd14d;
+    background-color: #67b87c;
     padding: 100px;
 
 }
@@ -62,13 +77,12 @@ p {
 .boxInSection {
     padding: 50px;
     margin: 0;
-
     display: flex;
     justify-content: center;
 }
 
 .imgContainer_right, .imgContainer_left, .textContainer_right, .textContainer_left  {
-    padding: 50px;
+    padding: 25px;
     margin: 0 auto;
 }
 
@@ -101,6 +115,7 @@ p {
 .mediumText {
     font-size: 50px;
 }
+
 .bigText {      
     font-size: 70px;
      
@@ -109,8 +124,6 @@ p {
 canvas {
     margin: 0 auto;
 }
-
-
 
 .imgContainer_left {    
     margin: 0 auto;
@@ -144,6 +157,17 @@ img {
     border-radius: 10px;
 }
 
+
+/*fish comparsion*/
+/*https://pixabay.com/vectors/clean-environment-garbage-recycle-1223168/*/
+
+/*plastic bag smiley face*/
 /*https://pixabay.com/photos/have-a-nice-day-plastic-bag-bag-4673649/*/
+
+
+/*recycle bag*/
+/*https://pixabay.com/vectors/recycle-shopping-bag-arrows-cycle-151416/*/
+
+
 /*https://www.globalcitizen.org/en/content/plastic-pollution-facts/*/
 /*https://www.biologicaldiversity.org/programs/population_and_sustainability/sustainability/plastic_bag_facts.html*/
