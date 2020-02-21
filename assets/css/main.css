@@ -75,19 +75,19 @@ li {
 .section1, .section3 {
     height: 500px;
     background-color: white;
-    padding: 50px;
+    padding: 30px;
 }
 
 .section5 {
     height: 500px;
     background-color: white;
-    padding: 50px 300px 50px 300px;
+    padding: 30px 300px 30px 300px;
 }
 
 .section2, .section4{
     height: 500px;
     background-color: #67b87c;
-    padding: 50px;
+    padding: 30px;
 
 }
 
