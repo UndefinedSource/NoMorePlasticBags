@@ -22,6 +22,10 @@ h2 {
     font-size: 30px;
 }
 
+.refernce {
+    text-align: center;
+}
+
 .section1 h2, .section3 h2, .section5 h2, .section1 p, .section2 p, .section5 p {
     color: #4b7362;
 }
