@@ -40,6 +40,12 @@ p {
     font-size: 20px; 
 }
 
+.pic_citation {
+    font-family: 'Bebas Neue', cursive;
+    color: #4b7362;
+    font-size: 15px; 
+}
+
 li {
     font-family: 'Bebas Neue', cursive;
     color: #f2f0f0;
